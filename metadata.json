@@ -1,37 +1,36 @@
 {
-  "name": "BARK",
-  "symbol": "BARK",
-  "description": "BARK is a Solana-based token that transcends meme status, embodying a real-world asset meticulously crafted by a dedicated community. It ensures transparent, secure, and community-driven financial operations, integrating blockchain integrity and efficiency with tangible real-world asset values. Through partnerships, including with Social Finance (SoFi), BARK pioneers innovation and inclusivity in decentralized finance. Governance of the BARK ecosystem is democratically managed through community proposals and voting mechanisms.",
-  "version": "2.0.0",
-  "image": "https://raw.githubusercontent.com/bark-community/bark-token/main/src/assets/bark.svg",
-  "image_url": "https://ipfs.io/ipfs/QmXCJ5WjaKf7BWkXmPW3b9xFiSeRqmQx21ihYmGWavewTz?filename=bark-token.png",
-  "animation_url": null,
-  "extensions": {
-    "website": "https://barkprotocol.com",
-    "token": "https://barktoken.app",
-    "governance": "https://app.realms.today/realm/BARK",
-    "ico_ito_token_sale_dashboard": "https://invest.barktoken.app",
-    "twitter": "https://twitter.com/bark_protocol",
-    "discord": "https://discord.gg/H9en8eHzn2",
-    "telegram": "https://t.me/bark_protocol",
-    "medium": "https://medium.com/@barkprotocol"
-  },
-  "attributes": [
-    {
-      "trait_type": "Utility",
-      "value": "Financial Operations, Governance"
+    "name": "BARK",
+    "symbol": "BARK",
+    "description": "BARK is a Solana-based token that transcends meme status, embodying a real-world asset meticulously crafted by a dedicated community. It ensures transparent, secure, and community-driven financial operations, integrating blockchain integrity and efficiency with tangible real-world asset values. Through partnerships, including with Social Finance (SoFi), BARK pioneers innovation and inclusivity in decentralized finance. Governance of the BARK Protocol ecosystem is democratically managed through community proposals and voting mechanisms.",
+    "version": "2.0.0",
+    "image": "https://raw.githubusercontent.com/bark-community/bark/main/src/assets/bark.svg",
+    "image_url": "https://ipfs.io/ipfs/QmXCJ5WjaKf7BWkXmPW3b9xFiSeRqmQx21ihYmGWavewTz?filename=bark-token.png",
+    "animation_url": null,
+    "extensions": {
+      "website": "https://barkprotocol.com",
+      "token": "https://barktoken.app",
+      "governance": "https://app.realms.today/realm/BARK",
+      "twitter": "https://twitter.com/bark_protocol",
+      "discord": "https://discord.gg/H9en8eHzn2",
+      "telegram": "https://t.me/bark_protocol",
+      "medium": "https://medium.com/@barkprotocol"
     },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Asset Type",
-      "value": "Real-World Asset (BRWA)"
-    },
-    {
-      "trait_type": "Community Driven",
-      "value": "Yes"
-    }
-  ]
-}
+    "attributes": [
+      {
+        "trait_type": "Utility",
+        "value": "SocialFi Operations, Charity, Governance"
+      },
+      {
+        "trait_type": "Blockchain",
+        "value": "Solana"
+      },
+      {
+        "trait_type": "Asset Type",
+        "value": "Real-World Asset (BRWA)"
+      },
+      {
+        "trait_type": "Community Driven",
+        "value": "Yes"
+      }
+    ]
+  }
