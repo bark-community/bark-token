@@ -1,0 +1,12 @@
+{
+  "name": "bark",
+  "version": "2.0.0",
+  "description": "![BARK Token Logo](https://raw.githubusercontent.com/bark-community/bark/main/src/assets/bark.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BARK Protocol",
+  "license": "Apache-2.0"
+}
