@@ -1,4 +1,5 @@
-# BARK Token
+# BARK 
+v2.0
 
 ![BARK Token Logo](https://raw.githubusercontent.com/bark-community/bark/main/src/assets/bark.svg)
 
