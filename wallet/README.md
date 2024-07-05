@@ -100,14 +100,12 @@ Replace the placeholders with actual values from your setup.
 
 ### Conclusion
 
-The Solana Token-2022 CLI provides a powerful set of tools for managing SPL tokens on the Solana blockchain. By following the steps above, you should be able to effectively create and manage your tokens. For more advanced usage, refer to the official Solana documentation and the SPL Token Program documentation.
-
-
+The Solana Token-2022 CLI provides a powerful set of tools for managing SPL tokens on the Solana blockchain
 
 ## Wallet Keypairs
 
 ## Test Account & Wallet Keypairs
 
-- **Publickey**: test8ZRaDdtuAznnGLGv3JAPy2YVfWqbdkW1zU6PkNH
+**Mainnet** BARKmaEJkBJ9S2Yiu5YpSuawm21v6HbNWgVCSC3LeYKb
 
-- **Json**: test8ZRaDdtuAznnGLGv3JAPy2YVfWqbdkW1zU6PkNH.json
+BARKmaEJkBJ9S2Yiu5YpSuawm21v6HbNWgVCSC3LeYKb.json
