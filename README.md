@@ -13,6 +13,9 @@ The BARK Token (BARK) is the native utility token of the BARK Protocol, leveragi
   
 - **Impactful Initiatives:** BARK supports disaster relief, charity donations, and SocialFi projects, leveraging blockchain technology for social good.
 
+solana-install init v1.8.17
+
+
 ## Tokenomics
 
 - **Token Name:** BARK
