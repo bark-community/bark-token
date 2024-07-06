@@ -1,8 +1,6 @@
 # BARK
 v2.0
 
-![BARK Logo](https://github.com/bark-community/bark/blob/main/assets/bark.png)
-
 The BARK Token (BARK) is the native utility token of the BARK Protocol, leveraging the Solana blockchain to enhance transparency, efficiency, and trust in charitable donations and financial transactions. It plays a pivotal role in supporting and empowering both the BARK Protocol and BARK ecosystems, facilitating transactions, governance, and fostering community engagement.
 
 ## Key Features
