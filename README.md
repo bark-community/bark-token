@@ -20,7 +20,7 @@ solana-install init v1.8.17
 - **Ticker:** BARK
 - **Decimals:** 9
 - **Interest Bearing:** 5%
-- **Dynamic Transaction Fee:** 3-5% per transaction + SOL fee
+- **Dynamic Transaction Fee:** 2.8-5% per transaction + SOL fee
 - **Max Supply:** 18.45 billion
 - **Burning Rate:** 2.0 - 2.5% Quarterly
 - **Contract:** [Link to contract]
