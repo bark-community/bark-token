@@ -3,8 +3,7 @@
   "symbol": "BARK",
   "description": "BARK is a Solana-based token that transcends meme status, embodying a real-world asset meticulously crafted by a dedicated community. It ensures transparent, secure, and community-driven financial operations, integrating blockchain integrity and efficiency with tangible real-world asset values. Through partnerships, including with Social Finance (SoFi), BARK pioneers innovation and inclusivity in decentralized finance. Governance of the BARK Protocol ecosystem is democratically managed through community proposals and voting mechanisms.",
   "version": "2.0.0",
-  "image": "https://raw.githubusercontent.com/bark-community/bark/main/src/assets/bark.png",
-  "image_url": "https://github.com/bark-community/bark/blob/main/assets/bark.png",
+  "image": "https://raw.githubusercontent.com/bark-community/bark/main/assets/bark.svg",
   "animation_url": null,
   "extensions": {
     "website": "https://barkprotocol.com",
