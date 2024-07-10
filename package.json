@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "tsc node src/main.ts",
+    "start": "tsc && node src/main.js",
+    "disable-interest-bearing": "node disable_interest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,7 +17,6 @@
     "@solana/spl-token-metadata": "0.1.4",
     "@solana/web3.js": "^1.95.0",
     "bs58": "^6.0.0",
-    "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2",
     "typescript": "^5.5.3"
   }
