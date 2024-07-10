@@ -2,6 +2,7 @@
   "name": "bark",
   "version": "2.0.0",
   "description": "The BARK is the native utility token of the BARK Protocol, leveraging the Solana blockchain to enhance transparency, efficiency, and trust in charitable donations and financial transactions.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "tsc node src/main.ts",
@@ -9,10 +10,13 @@
   },
   "keywords": [],
   "author": "BARK Protocol",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
-    "@solana/spl-token": "^0.4.7",
-    "@solana/web3.js": "^1.94.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/spl-token-metadata": "0.1.4",
+    "@solana/web3.js": "^1.95.0",
+    "bs58": "^6.0.0",
+    "node-fetch": "^3.3.2",
     "typescript": "^5.5.3"
   }
 }
