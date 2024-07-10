@@ -1,6 +1,3 @@
-It looks like you've already started documenting your changelog for the BARK project. Here's a refined version based on your existing structure:
-
-```markdown
 # Changelog
 
 All notable changes to the BARK project will be documented in this file.
@@ -20,9 +17,9 @@ All notable changes to the BARK project will be documented in this file.
 
 - Addressed issues with Raydium (DEX) not supporting Solana token-2022 extensions, liquidity pool creation errors, unsupported extensions leading to failed DEX launches, damages, and unnecessary harm. High-price fluctuations (+35.000% to +75.000%) and Marketcap 1h exceeding 45,000.0000M.
 
-### Removed
+### Upgrading / Remove
 
-- Removed v1 contract (CA).
+- Need to Remove / destroy v1 contract (CA).
 
 ## [2.0.0] - 07/03/2024
 

@@ -18,7 +18,7 @@ solana config set --url https://api.testnet.solana.com
 
 solana-keygen new --no-passphrase -o 
 
-## Token
+## Token Test
 
 spl-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb \
   create-token --interest-rate 5 --enable-metadata --transfer-fee 280 500

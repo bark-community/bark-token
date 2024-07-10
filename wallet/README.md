@@ -87,13 +87,13 @@ Here is an example workflow to create a token, create an account, mint tokens, a
 3. **Mint Tokens to the Account:**
 
    ```sh
-   spl-token mint <TOKEN_ADDRESS> 100 <TOKEN_ACCOUNT_ADDRESS>
+   spl-token mint <TOKEN_ADDRESS> 25000000000 <TOKEN_ACCOUNT_ADDRESS>
    ```
 
 4. **Transfer Tokens to Another Account:**
 
    ```sh
-   spl-token transfer <TOKEN_ADDRESS> 10 <RECIPIENT_TOKEN_ACCOUNT_ADDRESS>
+   spl-token transfer <TOKEN_ADDRESS> 25000000000 <RECIPIENT_TOKEN_ACCOUNT_ADDRESS>
    ```
 
 Replace the placeholders with actual values from your setup.
