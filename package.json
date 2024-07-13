@@ -1,7 +1,7 @@
 {
-  "name": "bark",
-  "version": "2.0.0",
-  "description": "The BARK is the native utility token of the BARK Protocol, leveraging the Solana blockchain to enhance transparency, efficiency, and trust in charitable donations and financial transactions.",
+  "name": "sparky",
+  "version": "1.0.0",
+  "description": "SPARKY (Sparky Bros) is a versatile utility token within the BARK Protocol, built on the high-performance Solana blockchain. It transcends the typical functionalities of club tiered tokens and memecoins by offering a wide range of applications and benefits, particularly for members of exclusive clubs and communities.",
   "type": "module",
   "main": "index.js",
   "scripts": {
