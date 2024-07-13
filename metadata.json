@@ -1,14 +1,12 @@
 {
-  "name": "BARK",
-  "symbol": "BARK",
-  "description": "BARK is a Solana-based token that transcends meme status, embodying a real-world asset meticulously crafted by a dedicated community. It ensures transparent, secure, and community-driven financial operations, integrating blockchain integrity and efficiency with tangible real-world asset values. Through partnerships, including with Social Finance (SoFi), BARK pioneers innovation and inclusivity in decentralized finance. Governance of the BARK Protocol ecosystem is democratically managed through community proposals and voting mechanisms.",
-  "version": "2.0.0",
-  "image": "https://raw.githubusercontent.com/bark-community/bark/main/assets/bark.svg",
+  "name": "SPARKY",
+  "symbol": "SPARKY",
+  "description": "SPARKY (Sparky Bros) is a versatile utility token within the BARK Protocol ecosystem, built on the high-performance Solana blockchain. It transcends the typical functionalities of club tiered tokens and meme coins by offering a wide range of real-world applications and benefits, particularly for members of exclusive clubs and communities.",
+  "version": "1.0.0",
+  "image": "https://raw.githubusercontent.com/bark-community/bark/main/assets/sparky.svg",
   "animation_url": null,
   "extensions": {
     "website": "https://barkprotocol.com",
-    "token": "https://barktoken.app",
-    "governance": "https://app.realms.today/realm/BARK",
     "x": "https://x.com/bark_protocol",
     "discord": "https://discord.gg/H9en8eHzn2",
     "telegram": "https://t.me/bark_protocol",
@@ -18,7 +16,7 @@
   "attributes": [
     {
       "trait_type": "Utility",
-      "value": "SocialFi Operations, Charity, Governance"
+      "value": "Tiered Membership, Rewards"
     },
     {
       "trait_type": "Blockchain",
@@ -26,7 +24,7 @@
     },
     {
       "trait_type": "Asset Type",
-      "value": "Real-World Asset (BRWA)"
+      "value": "CNFT"
     },
     {
       "trait_type": "Community Driven",
